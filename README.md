@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kentlundgren
-- 👀 I’m intresserad av att lära mig programmering med hjälp av ChatGPT
-- 🌱 I’m just nu försöker jag göra ett Pythonprogram som transkriberar text med hjälp av OpenAI:s Whisper
-- 💞️ I’m hjälp behövs...;>)
+- 👀 jag är intresserad av att lära mig programmering med hjälp av ChatGPT
+- 🌱 just nu försöker jag göra ett Pythonprogram som transkriberar text med hjälp av OpenAI:s Whisper
+- 💞️ hjälp behövs...;>)
 - 📫 Ni når mig via lundgren.kent@gmail.com eller @kentlundgren
 
 <!---

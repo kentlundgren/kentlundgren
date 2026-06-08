@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kentlundgren
 - 👀 jag är intresserad av att lära mig programmering
-- 🌱 just nu försöker jag göra ett program med Claude, Claude Cowork och Cursor
+- 🌱 just nu gör jag program med Claude, Claude Cowork och Cursor
 - 📫 Ni når mig via lundgren.kent@gmail.com eller @kentlundgren
 
 <!---

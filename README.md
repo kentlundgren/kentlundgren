@@ -3,7 +3,7 @@
 Jag är en nyfiken utvecklare som gillar att bygga, testa och lära mig genom praktiska projekt. Just nu utforskar jag AI-stöd, automation och programmering med verktyg som Claude, Claude Code och Cursor.
 
 ## Svenska version
-- 👋 Hej, jag är [@kentlundgren på X](https://x.com/kentlundgren)
+- 👋 Hej, jag är [kentlundgren](http:kentlundgren)
 - 👀 Jag är intresserad av programmering och lärande genom att bygga saker
 - 🌱 Just nu arbetar jag med Claude, Claude Code och Cursor
 - 📫 Du når mig via lundgren.kent@gmail.com eller [@kentlundgren på X](https://x.com/kentlundgren)
